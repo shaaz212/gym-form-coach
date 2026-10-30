@@ -10,6 +10,7 @@ See `tasks/plan.md` for decisions, the exercise table and risks.
   `docs/decisions/001-pose-model.md`.
 - **Next:** start Tasks 4 and 5 with the lite model (changing size later is one setting); the gym test runs alongside.
 - **New machine:** `npm install`, then `npx wrangler login` once before `npm run deploy`.
+- **Branches:** work on `dev`; merge into `main` when a version is ready to go live.
 
 ## Phase 0: Prove the riskiest parts first
 
